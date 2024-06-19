@@ -72,7 +72,7 @@
 </div>
 
 ###
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/blackheadhackr/blackheadhackr/output/snake.svg"><img src="https://raw.githubusercontent.com/blackheadhackr/blackheadhackr/output/snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+
 ###
 
 <div align="center">
