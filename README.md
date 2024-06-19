@@ -35,9 +35,7 @@
   <a href="https://www.instagram.com/goutamji11/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram"  />
   </a>
-<!--   <a href="https://t.me/developerroshan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram"  />
-  </a> -->
+
 
 </div>
 
