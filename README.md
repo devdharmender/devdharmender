@@ -62,7 +62,9 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap"  />
   </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/575b33e86739b657387aaf2598c4f9d6677a60a33718d65e11e0d81cbb7cc09c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/575b33e86739b657387aaf2598c4f9d6677a60a33718d65e11e0d81cbb7cc09c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667" height="40" alt="sass logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="max-width: 100%;"></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg](https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png)" height="40" width="52" alt="bootstrap"  />
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode"  />
   </a>
