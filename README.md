@@ -68,8 +68,11 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" height="40" width="45" alt="PHP"  />
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=orange" height="40" width="45" alt="Codeigniter"  />
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="40" width="45" alt="PHP"  />
+    <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="40" width="45" alt="MYSQL"  />
   </a>
   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" height="40" width="52" alt="sublimetext"  />
