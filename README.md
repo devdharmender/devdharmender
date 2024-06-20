@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on <br> **Senior PHP CodeIgniter Development;**
 
-- 👯 I’m looking to collaborate on **B2B Using PHP CodeIgniter;**
+- 👯 I’m looking to collaborate on <br> **B2B Using PHP CodeIgniter;**
 
-- 🌱 I’m currently learning **DSA;**
+- 🌱 I’m currently learning <br>  **DSA;**
 
-- 🤝 I’m looking for help with **Advance SQL;**
+- 🤝 I’m looking for help with <br>  **Advance SQL;**
 
-- 💬 Ask me about **Backend Web Development In PHP, CodeIgniter, I am happy to help;**
+- 💬 Ask me about <br>  **Backend Web Development In PHP, CodeIgniter, I am happy to help;**
 
-- 📫 How to reach me **wddevelopers2000@gmail.com;**
+- 📫 How to reach me <br>  **wddevelopers2000@gmail.com;**
 
-- ⚡ Fun fact **Eat > Sleep > Code > Repeat;**
+- ⚡ Fun fact <br>  **Eat > Sleep > Code > Repeat;**
 
 ###
 ###
