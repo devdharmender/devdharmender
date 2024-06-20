@@ -65,7 +65,7 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" height="40" width="45" alt="PHP"  />
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/8ee96fad80808783c9ce27ca065200aa3c42c9db/topics/codeigniter/codeigniter.png" width="40" height="40" alt="codeigniter logo">
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
