@@ -93,6 +93,10 @@
     <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="40" width="40" alt="Window"  />
   </a>
 
+  <a href="https://www.apple.com/in/mac/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" height="40" width="40" alt="Window"  />
+  </a>
+
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=blackheadhackr" height="150" alt="languages graph"  />
