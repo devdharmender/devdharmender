@@ -56,9 +56,9 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5"  />
   </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
+<!--   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs"  />
-  </a>
+  </a> -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap"  />
   </a>
