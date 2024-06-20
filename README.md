@@ -109,7 +109,7 @@
 </div>
 
 ###
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=blackheadhackr&theme=onedark" />
-###
-###
+</div>
 <img src="https://myreadme.vercel.app/api/embed/blackheadhackr?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
