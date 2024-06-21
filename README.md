@@ -13,7 +13,7 @@
 
 - 💬 Ask me about <br>  **Backend Web Development In PHP, CodeIgniter, I am happy to help;**
 
-- 📫 How to reach me <br>  **wddevelopers2000@gmail.com;**
+- 📫 How to reach me <br>  **dheetdev@gmail.com;**
 
 - ⚡ Fun fact <br>  **Eat > Sleep > Code > Repeat;**
 
