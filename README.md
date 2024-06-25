@@ -15,7 +15,7 @@
 
 - 📫 How to reach me  **dheetdev@gmail.com;**
 
-- ⚡ Fun fact <br>  **Eat > Sleep > Code > Repeat;**
+- ⚡ Fun fact   **Eat > Sleep > Code > Repeat;**
 
 ###
 ###
