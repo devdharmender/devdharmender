@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on  **B2B Using PHP CodeIgniter;**
 
-- 🌱 I’m currently learning <br>  **DSA;**
+- 🌱 I’m currently learning  **DSA;**
 
 - 🤝 I’m looking for help with <br>  **Advance SQL;**
 
