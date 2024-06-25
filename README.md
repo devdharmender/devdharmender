@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with   **Advance SQL;**
 
-- 💬 Ask me about <br>  **Backend Web Development In PHP, CodeIgniter, I am happy to help;**
+- 💬 Ask me about   **Backend Web Development In PHP, CodeIgniter, I am happy to help;**
 
 - 📫 How to reach me <br>  **dheetdev@gmail.com;**
 
