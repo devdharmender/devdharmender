@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Senior PHP CodeIgniter Development;**
 
-- 👯 I’m looking to collaborate on  **B2B Using PHP CodeIgniter;**
+- 👯 I’m looking to collaborate on  **B2B Using PHP CodeIgniter & mongodb ;**
 
 - 🌱 I’m currently learning  **DSA, nodejs & mongodb;**
 
