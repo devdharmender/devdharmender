@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on  **B2B Using PHP CodeIgniter & mongodb ;**
 
-- 🌱 I’m currently learning  **DSA, nodejs & mongodb;**
+- 🌱 I’m currently learning  **DSA, C++ and JAVA;**
 
 - 🤝 I’m looking for help with   **Advance SQL;**
 
