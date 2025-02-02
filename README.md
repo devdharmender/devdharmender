@@ -32,6 +32,7 @@
   <a href="https://www.instagram.com/goutamji11/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram"  />
   </a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev_roshan" height="30" width="40" style="max-width: 100%;">
 
 
 </div>
