@@ -3,15 +3,15 @@
 
 
 
-- 🔭 I’m currently working on **Senior PHP CodeIgniter Development;**
+- 🔭 I’m currently working on **Senior Laravel & CodeIgniter Development;**
 
-- 👯 I’m looking to collaborate on  **B2B Using PHP CodeIgniter & mongodb ;**
+- 👯 I’m looking to collaborate on  **Laravel, MongoDB;**
 
-- 🌱 I’m currently learning  **DSA, C++ and JAVA;**
+- 🌱 I’m currently learning  **Laravel API Creation;**
 
-- 🤝 I’m looking for help with   **Advance SQL;**
+- 🤝 I’m looking for help with   **Advance SQL Injections;**
 
-- 💬 Ask me about   **Backend Web Development In PHP, CodeIgniter, I am happy to help;**
+- 💬 Ask me about   **Backend Web Development In PHP, CodeIgniter, and Laravel. I am happy to help;**
 
 - 📫 How to reach me  **dheetdev@gmail.com;**
 
