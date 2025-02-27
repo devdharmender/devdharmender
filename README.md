@@ -13,7 +13,7 @@
 
 - 💬 Ask me about   **Backend Web Development In PHP, CodeIgniter, and Laravel. I am happy to help;**
 
-- 📫 How to reach me  **dheetdev@gmail.com;**
+- 📫 How to reach me  **https://join.skype.com/invite/pQuKORoLid74;**
 
 - ⚡ Fun fact   **Eat > Sleep > Code > Repeat;**
 
