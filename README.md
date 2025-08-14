@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/goutamji11/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram"  />
   </a>
-<a href="https://leetcode.com/u/wddevelopers/" target="_blank" style="text-decoration:none;">
+<a href="https://leetcode.com/u/DevDharmender/" target="_blank" style="text-decoration:none;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Dharmender Kumar" width="52" height="40" />
 </a>
 
