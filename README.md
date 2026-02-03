@@ -1,21 +1,23 @@
 <h1 align="center">Hey 👋 Coder's , I'm Dharmender Kumar </h1>
-<h3 align="center">A passionate Backend developer from New Delhi, India</h3>
+<h3 align="center">A passionate Software developer from New Delhi, India</h3>
 
 
 
-- 🔭 I’m currently working on **Senior Laravel & CodeIgniter Development;**
+- 🔭 I’m currently working on **Softare Developer**
 
-- 👯 I’m looking to collaborate on  **Laravel, MongoDB;**
+- 👯 I’m looking to collaborate on  **Laravel, JAVA;**
 
-- 🌱 I’m currently learning  **Laravel API Creation;**
+- 🌱 I’m currently learning  **JAVA With DSA**
 
-- 🤝 I’m looking for help with   **Advance SQL Injections;**
+- 🤝 I’m looking for help with   **Advance SQL;**
 
-- 💬 Ask me about   **Backend Web Development In PHP, CodeIgniter, and Laravel. I am happy to help;**
+- 💬 Ask me about   **LARAVEL, SQL, JAVA**
 
-- 📫 How to reach me  **https://join.skype.com/invite/pQuKORoLid74;**
+- 📫 How to reach me  **wddevelopers26@gmail.com;**
 
 - ⚡ Fun fact   **Eat > Sleep > Code > Repeat;**
+
+- ⚡ Profile  <a href="https://leetcode.com/u/DevDharmender/" target="_blank" style="text-decoration:none;">**https://devdharmender.vercel.app/**</a>
 
 ###
 ###
